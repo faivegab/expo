@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654252959 source:c:\users\faive solomon tizhe\desktop\programs\contact book\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
