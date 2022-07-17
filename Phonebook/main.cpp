@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h>
+#include <curses.h>
 #include <fstream>
 
 using namespace std;

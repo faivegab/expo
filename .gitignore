@@ -1,2 +1,4 @@
-Contact Book.depend
-Contact Book.layout
+*.layout
+*.depend
+bin/
+obj/
